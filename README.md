@@ -1,5 +1,8 @@
 ---
 title: すごいドキュメント
+meta:
+  - name: description
+    content: すごい説明
 ---
 
 
